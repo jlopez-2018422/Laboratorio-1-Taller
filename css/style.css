@@ -312,6 +312,14 @@ a:not(last-child){
   color: white;
 }
 
+.migusto-ejercicio{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    background-color: #211F1F;
+    color: azure;
+}
+
   
                  
 
